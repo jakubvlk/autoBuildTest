@@ -1,2 +1,2 @@
 # autoBuildTest
-test 5
+develop
