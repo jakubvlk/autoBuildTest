@@ -1,1 +1,2 @@
 # autoBuildTest
+test 0
