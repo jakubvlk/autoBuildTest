@@ -1,2 +1,2 @@
 # autoBuildTest
-master 0
+master 1
